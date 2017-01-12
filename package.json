@@ -1,9 +1,9 @@
 {
-  "name": "fixate-styles",
-  "version": "0.0.2",
+  "name": "fixate-sass",
+  "version": "0.0.1",
   "description": "SCSS framework inspired largely by inuit.css",
   "main": "index.js",
-  "repository": "git@github.com:fixate/styles.git",
+  "repository": "git@github.com:fixate/sass.git",
   "author": "Larry Botha <stan@fixate.it>",
   "license": "MIT"
 }
